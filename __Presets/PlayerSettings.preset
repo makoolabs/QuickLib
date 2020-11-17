@@ -942,7 +942,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: iOSRenderExtraFrameOnPause
-    value: 0
+    value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: appleDeveloperTeamID
@@ -958,7 +958,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: iOSManualSigningProvisioningProfileType
-    value: 0
+    value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: tvOSManualSigningProvisioningProfileType
